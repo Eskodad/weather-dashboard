@@ -34,7 +34,7 @@
 
 ---
 
-## [GitHub Weather Dashboard Repo](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+## [GitHub Weather Dashboard Repo](https://eskodad.github.io/weather-dashboard/)
 
 ## [Weather Dashboard Website](xxxxxxxxxxxxxxxxxxxxxxxxxxx)
 
