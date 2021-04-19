@@ -34,9 +34,9 @@
 
 ---
 
-## [GitHub Weather Dashboard Repo](https://eskodad.github.io/weather-dashboard/)
+## [GitHub Weather Dashboard Repo]()
 
-## [Weather Dashboard Website]()
+## [Weather Dashboard Website](https://eskodad.github.io/weather-dashboard/)
 
 ---
 
